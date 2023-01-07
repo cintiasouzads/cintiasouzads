@@ -1,4 +1,4 @@
-###  👋 Hello :) Im Cintia and welcome to my github profile
+# 👋 Hello :) Im Cintia and welcome to my github profile
 ## Im a Front-End student and here i will share my projects
 <br>
 <div>
